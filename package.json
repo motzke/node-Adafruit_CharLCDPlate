@@ -1,0 +1,27 @@
+{
+  "name": "Adafruit_CharLCDPlate",
+  "version": "0.0.1",
+  "description": "node port of https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/tree/master/Adafruit_CharLCDPlate",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/motzke/node-Adafruit_CharLCDPlate.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "adafruit",
+    "Raspberry",
+    "CharLCDPlate"
+  ],
+  "author": "Matthias Motzke",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "ba756ee94b712f11c843845a5a95ebb161fe3667",
+  "bugs": {
+    "url": "https://github.com/motzke/node-Adafruit_CharLCDPlate/issues"
+  }
+}
